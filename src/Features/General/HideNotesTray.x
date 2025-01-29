@@ -1,9 +1,7 @@
 #import "../../InstagramHeaders.h"
 #import "../../Manager.h"
 
-// Hide notes cell
-
-// This will leave the tray empty, may not be what we want
+// Disable notes data source
 %hook IGDirectNotesModelsDataSource
 
 - (id)initWithUserSession:(id)arg1 {
