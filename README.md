@@ -1,3 +1,6 @@
+# Reels off branch
+This branch is a version of the tweak that allows you to use SCInsta with the reels tab and scrolling reels off without a toggle to reenable them.
+
 # SCInsta
 A feature-rich tweak for Instagram on iOS!\
 `Version v0.6.0` | `Tested on Instagram v350.0.12`
